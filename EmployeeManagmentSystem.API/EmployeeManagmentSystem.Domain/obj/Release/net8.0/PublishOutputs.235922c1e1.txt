@@ -1,0 +1,3 @@
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Domain\bin\Release\net8.0\publish\EmployeeManagmentSystem.Domain.dll
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Domain\bin\Release\net8.0\publish\EmployeeManagmentSystem.Domain.deps.json
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Domain\bin\Release\net8.0\publish\EmployeeManagmentSystem.Domain.pdb

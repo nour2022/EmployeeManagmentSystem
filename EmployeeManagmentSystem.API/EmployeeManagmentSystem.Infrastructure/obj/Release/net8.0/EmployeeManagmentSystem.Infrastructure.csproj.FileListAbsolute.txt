@@ -1,0 +1,17 @@
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Infrastructure\bin\Release\net8.0\EmployeeManagmentSystem.Infrastructure.deps.json
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Infrastructure\bin\Release\net8.0\EmployeeManagmentSystem.Infrastructure.runtimeconfig.json
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Infrastructure\bin\Release\net8.0\EmployeeManagmentSystem.Infrastructure.dll
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Infrastructure\bin\Release\net8.0\EmployeeManagmentSystem.Infrastructure.pdb
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Infrastructure\bin\Release\net8.0\EmployeeManagmentSystem.Domain.dll
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Infrastructure\bin\Release\net8.0\EmployeeManagmentSystem.Domain.pdb
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Infrastructure\obj\Release\net8.0\EmployeeManagmentSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Infrastructure\obj\Release\net8.0\EmployeeManagmentSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Infrastructure\obj\Release\net8.0\EmployeeManagmentSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Infrastructure\obj\Release\net8.0\EmployeeManagmentSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Infrastructure\obj\Release\net8.0\EmployeeManagmentSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Infrastructure\obj\Release\net8.0\EmployeeManagmentSystem.Infrastructure.csproj.CopyComplete
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Infrastructure\obj\Release\net8.0\EmployeeManagmentSystem.Infrastructure.dll
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Infrastructure\obj\Release\net8.0\refint\EmployeeManagmentSystem.Infrastructure.dll
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Infrastructure\obj\Release\net8.0\EmployeeManagmentSystem.Infrastructure.pdb
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Infrastructure\obj\Release\net8.0\EmployeeManagmentSystem.Infrastructure.genruntimeconfig.cache
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Infrastructure\obj\Release\net8.0\ref\EmployeeManagmentSystem.Infrastructure.dll

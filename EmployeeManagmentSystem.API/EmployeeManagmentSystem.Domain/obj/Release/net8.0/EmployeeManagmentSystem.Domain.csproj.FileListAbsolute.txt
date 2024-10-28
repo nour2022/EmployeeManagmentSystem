@@ -1,0 +1,11 @@
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Domain\bin\Release\net8.0\EmployeeManagmentSystem.Domain.deps.json
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Domain\bin\Release\net8.0\EmployeeManagmentSystem.Domain.dll
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Domain\bin\Release\net8.0\EmployeeManagmentSystem.Domain.pdb
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Domain\obj\Release\net8.0\EmployeeManagmentSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Domain\obj\Release\net8.0\EmployeeManagmentSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Domain\obj\Release\net8.0\EmployeeManagmentSystem.Domain.AssemblyInfo.cs
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Domain\obj\Release\net8.0\EmployeeManagmentSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Domain\obj\Release\net8.0\EmployeeManagmentSystem.Domain.dll
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Domain\obj\Release\net8.0\refint\EmployeeManagmentSystem.Domain.dll
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Domain\obj\Release\net8.0\EmployeeManagmentSystem.Domain.pdb
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Domain\obj\Release\net8.0\ref\EmployeeManagmentSystem.Domain.dll

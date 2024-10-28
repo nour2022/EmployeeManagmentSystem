@@ -1,0 +1,17 @@
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Application\bin\Release\net8.0\EmployeeManagmentSystem.Application.deps.json
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Application\bin\Release\net8.0\EmployeeManagmentSystem.Application.dll
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Application\bin\Release\net8.0\EmployeeManagmentSystem.Application.pdb
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Application\bin\Release\net8.0\EmployeeManagmentSystem.Domain.dll
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Application\bin\Release\net8.0\EmployeeManagmentSystem.Infrastructure.dll
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Application\bin\Release\net8.0\EmployeeManagmentSystem.Infrastructure.pdb
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Application\bin\Release\net8.0\EmployeeManagmentSystem.Domain.pdb
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Application\obj\Release\net8.0\EmployeeManagmentSystem.Application.csproj.AssemblyReference.cache
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Application\obj\Release\net8.0\EmployeeManagmentSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Application\obj\Release\net8.0\EmployeeManagmentSystem.Application.AssemblyInfoInputs.cache
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Application\obj\Release\net8.0\EmployeeManagmentSystem.Application.AssemblyInfo.cs
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Application\obj\Release\net8.0\EmployeeManagmentSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Application\obj\Release\net8.0\EmployeeManagmentSystem.Application.csproj.CopyComplete
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Application\obj\Release\net8.0\EmployeeManagmentSystem.Application.dll
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Application\obj\Release\net8.0\refint\EmployeeManagmentSystem.Application.dll
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Application\obj\Release\net8.0\EmployeeManagmentSystem.Application.pdb
+C:\Users\User\source\EmployeeManagmentSystem.API\EmployeeManagmentSystem.Application\obj\Release\net8.0\ref\EmployeeManagmentSystem.Application.dll
